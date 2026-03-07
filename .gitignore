@@ -1,9 +1,0 @@
-**/__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-data/
-Notebooks/TF_learning.ipynb
-
-outputs/
