@@ -1,0 +1,21 @@
+# Git
+.git
+.gitignore
+
+# Python junk
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs
+.vscode/
+.idea/
+
+# Data and Notebooks
+data/
+Notebooks/
+
+outputs/fusion_unet_model.h5
+outputs/fusion2_unet_model.h5
+outputs/preprocessing.json
